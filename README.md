@@ -7,4 +7,4 @@ Requires [thrust](https://github.com/thrust/thrust) library and [moderngpu](http
 
 You might need to slightly modify the code to get it to work since it was coded a long time ago. 
 
-The paper was not published in any journal but is available online at: http://www.ishbir.com/static/ee.pdf
+The paper was not published in any journal but is available online at: http://www.ishbir.com/ee.pdf
